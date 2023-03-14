@@ -1,4 +1,4 @@
-import { Meals } from './src/screens/Meals';
+import { Meals } from '@screens/Meals';
 
 export default function App() {
   return <Meals />;
