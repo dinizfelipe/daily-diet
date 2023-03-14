@@ -1,9 +1,5 @@
-import { Container, Title } from './styles';
+import { Container } from './styles';
 
 export function Meals() {
-  return (
-    <Container>
-      <Title>Meals</Title>
-    </Container>
-  );
+  return <Container></Container>;
 }
