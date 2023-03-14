@@ -1,5 +1,9 @@
-import { Container } from './styles';
+import { Container, Title } from './styles';
 
 export function Meals() {
-  return <Container></Container>;
+  return (
+    <Container>
+      <Title>Minhas refeições</Title>
+    </Container>
+  );
 }

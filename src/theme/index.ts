@@ -21,8 +21,8 @@ export default {
     BLACK_800: '#333638',
   },
   FONT_FAMILY: {
-    REGULAR: 'Roboto_400Regular',
-    BOLD: 'Roboto_700Bold',
+    REGULAR: 'Ubuntu_400Regular',
+    BOLD: 'Ubuntu_700Bold',
   },
   FONT_SIZE: {
     SM: 14,
